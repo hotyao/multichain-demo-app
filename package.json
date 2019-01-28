@@ -1,0 +1,22 @@
+{
+  "name": "read-all-car-odometer-multichain",
+  "version": "1.0.0",
+  "description": "A demonstration Node.js web application on Multichain.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "async": "^0.9.2",
+    "cfenv": "^1.1.0",
+    "express": "^4.14.1",
+    "request": "^2.88.0",
+    "serve-static": "1.11.*",
+    "socket.io": "^1.7.4",
+    "winston": "^2.2.0"
+  },
+  "engines": {
+    "node": "^6.2.0"
+  },
+  "license": "Apache-2.0"
+}
